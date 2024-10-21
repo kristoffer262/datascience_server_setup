@@ -14,6 +14,7 @@ This repository can be used as a help for setting up a data science server, with
 * Set up script updating DNS record
 * Set up a SSH key authentication for SSH connections
 * Set up HTTPS for web services
+* Set up git on datascience container apt update, apt install git-all
 
 # Hardware setup
 * GPU: nVidia GeForce GTX 1660 SUPER
